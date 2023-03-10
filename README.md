@@ -14,3 +14,6 @@ Framework: EChart ([ref](https://echarts.apache.org/examples/en/index.html#chart
 
 Data Api: TwelveData ([ref](https://rapidapi.com/twelvedata/api/twelve-data1/))
 
+
+
+**To run the app ,just `npm install`**
